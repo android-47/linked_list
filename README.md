@@ -10,4 +10,3 @@ the values between nodes. A method is also included to count the number of prime
 in the linked list. An application is also used to receive input from the user and to 
 execute the implemented linked list and all functionality is done on the linked list, not
 another data structure. The number 1 will intentionlly not be counted as a prime number. 
-Lastly, this assignment was submitted passed the deadline so use my remaining late days.
